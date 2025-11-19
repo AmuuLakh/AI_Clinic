@@ -1,13 +1,15 @@
 streamlit
 pdfplumber
-pytesseract
 pdf2image
 pandas
 joblib
 plotly
 scikit-learn
-groq
 python-dotenv
 openai
 camelot
 pillow
+numpy
+PyMuPDF
+easyocr
+opencv-python-headless

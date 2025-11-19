@@ -57,3 +57,7 @@ coverage.xml
 .vscode/
 .idea/
 *.swp
+
+temp/
+__pycache__/
+.DS_Store
